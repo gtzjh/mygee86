@@ -1,12 +1,10 @@
-**Store my commonly-used code for Google Earth Engine**
-
-**存储我常用的GEE代码**
-
-
 [English version](#English-version)
 
 [中文版本](#中文文档)
 
+**Store my commonly-used code for Google Earth Engine**
+
+**存储我常用的GEE代码**
 
 # English version
 
