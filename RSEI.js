@@ -1,4 +1,3 @@
-/**** Start of imports. If edited, may not auto-convert in the playground. ****/
 var geometry = 
     /* color: #b5d8ff */
     /* shown: false */
