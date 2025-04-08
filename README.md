@@ -1,4 +1,4 @@
-# Store my JS code for Google Earth Engine
+# Store my code for Google Earth Engine
 
 GPPDownload: Download MODIS GPP (Gross Primary Product).
 
